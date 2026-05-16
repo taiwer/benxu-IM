@@ -1,0 +1,6 @@
+{
+  "name": "企微客服通知系统",
+  "description": "一个支持访客实时聊天并集成企业微信应用推送功能的客服系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
